@@ -1,0 +1,12 @@
+.headerOne{
+    background-color: white;
+    border-radius: 15px;
+    padding: 2em;
+}
+
+.headerTwo{
+    background-color: #000000;
+    border-radius: 15px;
+    color: white;
+    padding: 2em; 
+}

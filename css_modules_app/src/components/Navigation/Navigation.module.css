@@ -1,0 +1,20 @@
+.centerNavigation{
+    justify-content: center;
+    text-align: center;
+    padding: 2em;
+}
+
+.centerNavigation a{
+    color: #CC226A;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.navLink {
+    color: white;
+    font-family: 'Open sans', sans-serif;
+    font-size: 16px;
+    margin-bottom: 2em; 
+}
